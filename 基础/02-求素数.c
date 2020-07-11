@@ -1,5 +1,5 @@
-/*
-** 筛法求素数
+/**
+ * 筛法求素数
 */
 #include <stdio.h>
 #include <stdbool.h>
