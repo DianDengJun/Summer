@@ -1,7 +1,7 @@
 # Summer
 2020年暑假自学 - C语言 && 算法
 
-## 基础
+## [基础](https://github.com/DianDengJun/Summer/blob/master/基础/基础.md)
 1. 欧几里得算法求最大公约数
 2. 筛法求素数
 3. 康托展开
