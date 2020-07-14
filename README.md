@@ -1,6 +1,8 @@
 # Summer
 2020年暑假自学 - C语言 && 算法
 
+> 本仓库文档将同步更新在：[https://www.xxdiandeng.cn](https://www.xxdiandeng.cn/categories/2020%E6%9A%91%E5%81%87/)
+
 ## [基础](https://github.com/DianDengJun/Summer/blob/master/基础/基础.md)
 1. 欧几里得算法求最大公约数
 2. 筛法求素数
