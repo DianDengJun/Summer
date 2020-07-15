@@ -3,7 +3,7 @@
 
 > 本仓库文档将同步更新在个人博客：[https://www.xxdiandeng.cn](https://www.xxdiandeng.cn/categories/2020%E6%9A%91%E5%81%87/)
 
-## [基础](https://github.com/DianDengJun/Summer/blob/master/基础/基础.md)
+## [基础](https://github.com/DianDengJun/Summer/blob/master/1-基础/基础.md)
 1. 欧几里得算法求最大公约数
 2. 筛法求素数
 3. 康托展开
