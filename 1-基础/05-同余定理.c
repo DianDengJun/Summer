@@ -1,3 +1,7 @@
+/**
+ * 同余定理
+ * 同余: a-b/m为整数，称a和b对m同余
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #define Max 100
