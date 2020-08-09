@@ -1,6 +1,6 @@
 # Summer
 2020年暑假自学 - 数据结构与算法
-
+![数据结构与算法思维导图](./数据结构与算法思维导图.png)
 ## [基础](https://github.com/DianDengJun/Summer/blob/master/0-基础/基础.md)
 1. 欧几里得算法求最大公约数
 2. 筛法求素数
